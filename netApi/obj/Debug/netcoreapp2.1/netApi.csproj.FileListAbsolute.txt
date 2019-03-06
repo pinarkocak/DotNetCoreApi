@@ -1,0 +1,14 @@
+C:\Users\PINAR\Documents\Visual Studio 2017\Projects\netApi\netApi\bin\Debug\netcoreapp2.1\netApi.deps.json
+C:\Users\PINAR\Documents\Visual Studio 2017\Projects\netApi\netApi\bin\Debug\netcoreapp2.1\netApi.runtimeconfig.json
+C:\Users\PINAR\Documents\Visual Studio 2017\Projects\netApi\netApi\bin\Debug\netcoreapp2.1\netApi.runtimeconfig.dev.json
+C:\Users\PINAR\Documents\Visual Studio 2017\Projects\netApi\netApi\bin\Debug\netcoreapp2.1\netApi.dll
+C:\Users\PINAR\Documents\Visual Studio 2017\Projects\netApi\netApi\obj\Debug\netcoreapp2.1\netApi.csproj.CoreCompileInputs.cache
+C:\Users\PINAR\Documents\Visual Studio 2017\Projects\netApi\netApi\obj\Debug\netcoreapp2.1\netApi.RazorAssemblyInfo.cache
+C:\Users\PINAR\Documents\Visual Studio 2017\Projects\netApi\netApi\obj\Debug\netcoreapp2.1\netApi.RazorAssemblyInfo.cs
+C:\Users\PINAR\Documents\Visual Studio 2017\Projects\netApi\netApi\obj\Debug\netcoreapp2.1\netApi.AssemblyInfoInputs.cache
+C:\Users\PINAR\Documents\Visual Studio 2017\Projects\netApi\netApi\obj\Debug\netcoreapp2.1\netApi.AssemblyInfo.cs
+C:\Users\PINAR\Documents\Visual Studio 2017\Projects\netApi\netApi\obj\Debug\netcoreapp2.1\netApi.RazorTargetAssemblyInfo.cache
+C:\Users\PINAR\Documents\Visual Studio 2017\Projects\netApi\netApi\bin\Debug\netcoreapp2.1\netApi.pdb
+C:\Users\PINAR\Documents\Visual Studio 2017\Projects\netApi\netApi\obj\Debug\netcoreapp2.1\netApi.csprojAssemblyReference.cache
+C:\Users\PINAR\Documents\Visual Studio 2017\Projects\netApi\netApi\obj\Debug\netcoreapp2.1\netApi.dll
+C:\Users\PINAR\Documents\Visual Studio 2017\Projects\netApi\netApi\obj\Debug\netcoreapp2.1\netApi.pdb
